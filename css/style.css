@@ -101,10 +101,10 @@ html{
 }
 
 .main_div .footer p{
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 300;
     text-transform: capitalize;
-    padding:1rem;
+    padding:1rem 0 0 0;
 }
 /* animation */
 
