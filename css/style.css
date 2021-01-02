@@ -101,8 +101,8 @@ html{
 }
 
 .main_div .footer p{
-    font-size: 1.5rem;
-    font-weight: 500;
+    font-size: 1rem;
+    font-weight: 300;
     text-transform: capitalize;
     padding:1rem;
 }
